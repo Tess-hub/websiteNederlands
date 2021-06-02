@@ -1,0 +1,204 @@
+table, th, td {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+text-align: center
+}
+
+th, td{
+  height: 40px
+}
+
+table{
+  background-color: black
+}
+ td, th{
+   color:white
+ }
+
+ table, td, th{
+  border-color: white
+ }
+
+ h1{
+   text-align: center
+ }
+ h1{
+   height: 100px;
+ }
+
+ a{
+   color: CadetBlue;
+ }
+ a:hover{
+   color: hotpink;
+ }
+
+ a:link{
+    text-decoration: none;
+ }
+
+ body{
+   background-image: url("https://i1.wp.com/www.fantasywereld.nl/wp-content/uploads/2019/01/predatorsgold-1.jpg?fit=800%2C533&ssl=1");
+   background-size:  cover;
+   background-repeat: no-repeat;
+ }
+
+ #naam {
+   font-family: sans-serif;
+ }
+
+ div.sjaak{
+  background-color: black;
+  width: 600px;
+  height: 60px;
+  border: 2px solid white;
+  overflow: visible;
+  color: white;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 90px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+ }
+
+div.naastelkaar {
+  display: flex;
+  justify-content: space-around;
+}
+
+ div.inleiding{
+   background-color: black;
+   width:450px;
+   height: 50px;
+   border: 2px solid white;
+   overflow: visible;
+   color: white;
+   margin-top: 40px;
+   margin-bottom: 10px;
+   margin-right: 150px;
+   margin-left: 80px;
+   padding-top: 5px;
+   padding-right: 20px;
+   padding-bottom: 5px;
+   padding-left: 20px;
+  }
+
+  #schrijver{
+    background-color: black;
+    width:300px;
+    height: 35px;
+    border: 2px solid white;
+    overflow: visible;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    margin-right: 100px;
+    margin-left: 200px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+  }
+
+  div.Samenvatting{
+    background-color: black;
+    width:400px;
+    height: 160px;
+    border: 2px solid white;
+    overflow: visible;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-right: 100px;
+    margin-left: 400px;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+  }
+
+  div.waarom{
+    background-color: black;
+    width: 400px;
+    height: 40px;
+    border: 2px solid white;
+    overflow: visible;
+    color: white;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+  }
+
+  div.hoezo{
+    background-color: black;
+    width: 400px;
+    height: 40px;
+    border: 2px solid white;
+    overflow: visible;
+    color: white;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+  }
+
+ div.mening{
+   background-color: black;
+   width: 500px;
+   height: 170px;
+   border: 2px solid white;
+   overflow: visible;
+   color: white;
+   margin-top: 50px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   margin-left: 350px;
+   padding-top: 20px;
+   padding-right: 10px;
+   padding-bottom: 5px;
+   padding-left: 20px;
+ }
+
+ div.Hester{
+   background-color: black;
+   width: 500px;
+   height: 90px;
+   border: 2px solid white;
+   overflow: visible;
+   color: white;
+   margin-top: 50px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   margin-left: 500px;
+   padding-top: 20px;
+   padding-right: 10px;
+   padding-bottom: 5px;
+   padding-left: 20px;
+ }
+
+ div.Tom{
+   background-color: black;
+   width: 500px;
+   height: 60px;
+   border: 2px solid white;
+   overflow: visible;
+   color: white;
+   margin-top: 50px;
+   margin-right: 0px;
+   margin-bottom: 20px;
+   margin-left: 50px;
+   padding-top: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+ }
