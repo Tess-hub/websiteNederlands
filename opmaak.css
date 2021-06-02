@@ -202,3 +202,19 @@ div.naastelkaar {
    padding-bottom: 10px;
    padding-left: 10px;
  }
+
+ div.driblle{
+   background-color: black;
+   width: 500px;
+   height: 60px;
+   border: 2px solid white;
+   overflow: visible;
+   color: white;
+   margin-top: 50px;
+   margin-right: 0px;
+   margin-bottom: 20px;
+   margin-left: 50px;
+   padding-top: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
